@@ -46,6 +46,10 @@ proxy
 *.i*86
 *.x86_64
 *.hex
+/.vscode/
+/tiny/echo_client
+/tiny/echo_server
+/tiny/testfile
 
 # Debug files
 *.dSYM/
